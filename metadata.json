@@ -1,0 +1,7 @@
+{
+  "name": "Global Pulse - MSN Style News",
+  "description": "A comprehensive, modern news portal featuring categorized headlines, real-time search powered by Gemini, and a dynamic layout inspired by MSN.com.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
